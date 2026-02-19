@@ -41,7 +41,7 @@ Where:
 
 
 # Clone the repo
-git clone https://github.com/yourusername/black-scholes-python.git
+git clone https://github.com/AmieLeHoang/black-scholes-python.git
 
 # Install dependencies
 pip install -r requirements.txt
